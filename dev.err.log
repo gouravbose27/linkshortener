@@ -1,0 +1,136 @@
+[browser] Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview (https://rested-crow-6710.clerk.accounts.dev/npm/@clerk/clerk-js@6/dist/clerk.browser.js:40:1032)
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+[browser] Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview (https://rested-crow-6710.clerk.accounts.dev/npm/@clerk/clerk-js@6/dist/clerk.browser.js:40:1032)
+[browser] Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview (https://rested-crow-6710.clerk.accounts.dev/npm/@clerk/clerk-js@6/dist/clerk.browser.js:40:1032)
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
+Error: Route "/sign-up/[[...sign-up]]": Next.js encountered URL data `usePathname()` in a Client Component outside of `<Suspense>`.
+
+This blocks prerendering because the value is only available at runtime.
+
+Ways to fix this:
+  - [stream] Wrap the component in `<Suspense fallback={...}>` so the hook value streams in after prerendering
+  - [block] Set `export const instant = false` to allow a blocking route
+
+Learn more: https://nextjs.org/docs/messages/blocking-prerender-client-hook
+    at SignUpPage (app\sign-up\[[...sign-up]]\page.tsx:6:7)
+  4 |   return (
+  5 |     <div className="flex min-h-screen items-center justify-center">
+> 6 |       <SignUp />
+    |       ^
+  7 |     </div>
+  8 |   );
+  9 | } {
+  digest: 'CLIENT_HOOK_DYNAMIC'
+}
