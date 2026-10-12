@@ -2,9 +2,13 @@
 
 Link shortener web app. These instructions are binding for all LLM agents working in this repository.
 
-## Required: Read Layer Docs First
+> **CRITICAL: ALWAYS read the relevant instruction file(s) in the `/docs` directory BEFORE generating ANY code. This is non-negotiable.**
 
-Layer-specific standards live in the `/docs` directory. **Before generating or modifying any code, read the doc(s) in `/docs` that cover the layer you are touching.** If a layer doc conflicts with this file, the layer doc wins for that layer.
+## Required: Read Layer Docs First (MOST IMPORTANT RULE)
+
+Layer-specific standards live in the `/docs` directory. **ALWAYS read the doc(s) in `/docs` that cover the layer you are touching BEFORE generating, modifying, or suggesting ANY code.** No exceptions: this applies to every task, however small, and even if you believe you already know the conventions. Code written without first reading the relevant docs is considered incorrect and must be redone.
+
+If a task touches multiple layers, read every relevant doc. If a layer doc conflicts with this file, the layer doc wins for that layer.
 
 | Layer | Doc |
 | --- | --- |
