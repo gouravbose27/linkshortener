@@ -8,9 +8,9 @@ Layer-specific standards live in the `/docs` directory. **Before generating or m
 
 | Layer | Doc |
 | --- | --- |
-| Authentication (Clerk) | `/docs/auth.md` |
+| Authentication (Clerk): only auth method, protected `/dashboard`, modal sign-in/up | `/docs/auth.md` |
 | Database (Drizzle / Neon) | `/docs/database.md` |
-| UI components (shadcn/ui, Tailwind) | `/docs/ui.md` |
+| UI components (shadcn/ui only, no custom components; Tailwind) | `/docs/ui.md` |
 | Routing, pages, server actions | `/docs/routing.md` |
 
 If a doc listed above does not exist yet, follow this file and the existing code conventions, and do not invent a new standard.
